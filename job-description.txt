@@ -1,0 +1,35 @@
+Job description
+The Opportunity
+Marketo’s Sales Engagement Apps team is looking for an energetic, hungry, passionate, and kickass Frontend Developer. If that is You, join us to help build beautiful software that directly impacts the day to day lives of thousands of salespeople.
+You are a frontend developer. You love building products where you can see and feel the impact of your work quickly. You have a strong background of using JavaScript to build complex client-side applications. You follow blogs, read books, and constantly try new and interesting technologies so that you can be the best engineer possible. You sweat the small stuff because details matter.
+You are interested in building in a component-driven architecture with a bleeding edge frontend tech stack using React, Redux, ES6, Babel (stage-2), and Webpack. The idea of contributing to our component library and style guide where you will have an impact across multiple production apps excites you.
+You should join our crack team of engineers.
+Responsibilities
+As a frontend developer on the Sales Engagement Apps team, you'll not just be supporting the team, you'll be tapped into an instant feedback loop of how people are using the product you help create and how it helps them generate more business. In addition, you’ll be:
+Writing reusable, extensible code
+Shipping high impact features
+Contributing to our component library and style guide creating a consistent, delightful user experience
+Branching out into unfamiliar territory by taking part in architecture reviews that will shape the future of our frontend
+Diving into multiple codebases from our JavaScript frontend app, to more complicated projects like our Gmail integration
+Working with the rest of the team to map out features and improvements to our user experience
+Sharing an amazing meal during our team Lunch & Learn and hear about what the rest of the team is up to, learn about a new technology, or discuss our upcoming happy hour
+Job Details
+We've got a platform that is used by thousands of salespeople and sales teams and that is tightly integrated with the world’s #1 Marketing Engagement Platform. We have integrations into Gmail, Outlook, Salesforce and we're using technologies that are built using React, Rails, Node, Java, and .NET -- the whole thing has been built by a small, tight-knit team of engineers.
+Requirements
+Bachelor's degree in Computer Science, related discipline or equivalent experience
+6 months - 1+ years of experience designing and developing large scale, data-driven web applications with high availability, ideally in a SaaS environment
+Experience with one or more JavaScript UI libraries like React or Backbone
+Strong knowledge of JavaScript, HTML, and CSS
+Strong knowledge of cross browser support and responsive layouts
+Background and knowledge of CS principles such as data structures and algorithms
+Good verbal and written communication skills
+Strong ability to troubleshoot software problems
+Experience with a version control system (Git preferred, SVN, Perforce, or CVS experience acceptable)
+Pluses
+Experience with functional programming paradigms such as immutable data structures, high order functions, and composition
+Experience in client side security such as XSRF and cross-site scripting
+Experience with Agile (preferably Scrum) & Test-driven development
+Experience with common JavaScript build tools like Webpack, Gulp, Grunt, or Browserify
+Experience with CSS preprocessors like Sass or Less
+Experience with common open-source application/web servers like Node, Nginx, Apache
+Marketo is an equal opportunity employer.
